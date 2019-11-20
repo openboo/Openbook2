@@ -2,6 +2,27 @@
 
 An Anonymous hive mind social media network website.
 
+
+Openbook is the web software for creating an anonymous hive mind.
+
+There are no user accounts or passwords. You do NOT have to log in to post.
+
+There is only one newsfeed, so everyone sees the same newsfeed. There are no blackbox algorithms deciding what you see. The newsfeed defaults to showing posts in order of "most recent".
+
+Posts are categorized using #hashtags. And @mentions are used to mention other hashtags that aren't directly related to your post (instead of "mentioning" other users, since there are no other users to mention) - this allows users to point the way to a certain hashtag without categorizing your own post as a part of it.
+
+This second version of Openbook also has a little word bubble next to each hashtag, that links to a wiki article about the hashtag (of a wiki of your choosing) so that the proper use of a certain hashtag can be collectively defined using the wiki.
+
+And there's a simple "securimage" CAPTCHA added to prevent bots from posting.
+
+Posts have a character limit, but it's much larger than Twitter: posts just can't be over 9000!!!
+
+.
+
+.
+
+.
+
 Created in the spirit of #opRebuildTheHive, #opNewBlood, and...
 
 
